@@ -1,4 +1,4 @@
-# Sublime Tip \#2
+# Sublime Tip \#1
 
 This tip we are going to discuss some Setup. 
 

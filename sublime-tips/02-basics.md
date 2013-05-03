@@ -1,4 +1,4 @@
-# Sublime Tip \#1
+# Sublime Tip \#2
 
 This is the start of a series of posts to help you better utilize your most important tool in developing, your text editor. For this course we are recommending with that you start out with Sublime Text 2. If you have chosen a different editor, read the shortcuts below and find the equivalent actions in your chosen editor. As usual, ask your mentor if you have questions or would like these demostrated.
 
